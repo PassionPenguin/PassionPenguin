@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>About PassionPenguin</title>
+    <style>
+        :root {
+            background: rgb(230, 230, 230);
+            padding: 24px;
+        }
+
+        * {
+            font-family: "PingFang HK", "SF Compact", "Source Han Sans", sans-serif;
+        }
+
+        a, a:link, a:visited {
+            color: #444;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        #bg {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            z-index: -1;
+            opacity: 0.5;
+            width: 100%;
+        }
+
+        h1 {
+            margin: 48px 0 18px 0;
+            font: 900 28px/1 sans-serif;
+            padding-bottom: 8px;
+            border-bottom: 1px solid #bbb;
+        }
+
+        h2 {
+            margin: 12px 0 0 0;
+            font: 900 22px/1 sans-serif;
+        }
+
+
+        h3 {
+            margin: 12px 0 0 0;
+            font: 900 18px/1 sans-serif;
+        }
+
+        .tags {
+            list-style: none;
+        }
+
+        .tags li, .tags a {
+            height: 24px;
+            line-height: 24px;
+            font-size: 11px;
+            display: inline-block;
+        }
+
+        .tags a {
+            margin-left: 20px;
+            padding: 0 10px 0 12px;
+            text-decoration: none;
+            border-radius: 8px;
+            border-width: 2px;
+            border-style: solid;
+            color: black;
+            font-weight: 800;
+        }
+
+        .tags a:hover {
+            background: #fff !important;
+            color: black;
+        }
+
+        #contacts .material-icons {
+            font-size: 16px;
+            vertical-align: middle;
+        }
+
+        #contacts {
+            font-size: 14px;
+            list-style: none;
+            line-height: 2;
+        }
+
+        #contacts * {
+            color: #444 !important;
+        }
+
+        pre {
+            margin: 24px 0;
+        }
+
+        pre code {
+            border-radius: 8px;
+            font-family: "JetBrains Mono", monospace;
+            width: fit-content;
+        }
+
+        pre code * {
+            font-family: "JetBrains Mono", monospace !important;
+        }
+    </style>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+            rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/atom-one-light.min.css" integrity="sha512-11xYl5MU0/AMaYnuBOXDDQdZnl5WGtLVidxqa0XUAXYf6cGnJShNpgtbmB/0MW6ypeev+9Bwj7I/J8wexX8ePw==" crossorigin="anonymous"/>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
+    <!-- and it's easy to individually load additional languages -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/languages/go.min.js"></script>
+</head>
+<body>
+<img src="resources/Desktop%20Pic.png" alt="background" id="bg"/>
+<h1>PassionPenguin - Hoarfroster ✨</h1>
+<h2>霜羽 🍻</h2>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=PassionPenguin&show_icons=true&layout=compact" alt="PassionPenguin Stat"/>
+<p>哈喽！这里是
+    <b><a href="https://github.com/PassionPenguin">霜羽 Hoarfroster</a></b>！现在正在为
+    <b><a href="https://github.com/xitu/gold-miner">掘金翻译计划</a></b> 翻译文章。
+</p>
+
+<h3>Tags</h3>
+<p>如果说兴趣爱好：</p>
+<p class="tags">
+    <a style="border-color: deepskyblue">Ski Lover</a><a style="border-color: mediumseagreen">Bicycle Rider</a></p>
+<p>如果说日常生活：</p>
+<p class="tags">
+    <a style="border-color: limegreen">Programming Fever</a><a style="border-color: indianred">Translating & Proofreading</a>
+</p>
+<p>如果说游戏：</p>
+<p class="tags">
+    <a style="border-color: darkorange">COC Enthusiastic</a><a style="border-color: lightgreen">Terrarian</a>
+</p>
+<h3>Contacts</h3>
+<p>如果你想聊聊技术或者交个朋友，可以给我 <a href="mailto:penguin.zhang@qq.com">发点邮件</a>~ 或者欢迎你加个微信<code>PassionPenguin</code> ！：）。</p>
+<ul id="contacts">
+    <li><span class="material-icons">mail</span> <a href="mailto:penguin.zhang@qq.com">penguin.zhang@qq.com</a></li>
+    <li><span class="material-icons">link</span>
+        <a href="https://passionpenguin.github.io/PassionPenguin">passionpenguin.github.io/PassionPenguin</a></li>
+    <li><span class="material-icons">supervisor_account</span> WeChat PassionPenguin</li>
+    <li><span class="material-icons">stay_primary_portrait</span> QQ 2646327425</li>
+</ul>
+
+<pre><code class="language-cpp">std::cout << "面朝大海，仰望星空～" << std::endl;</code></pre>
+</body>
+<script>
+    document.addEventListener('DOMContentLoaded', (event) => {
+        document.querySelectorAll('pre code').forEach((block) => {
+            hljs.highlightBlock(block);
+        });
+    });
+</script>
+</html>
