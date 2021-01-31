@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fffd8878-c135-49db-a133-dc8e035af574" name="Default Changelist" comment="Update Resources">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -53,7 +52,9 @@
       <workItem from="1611979534193" duration="720000" />
       <workItem from="1611980338185" duration="2803000" />
       <workItem from="1611986447930" duration="956000" />
-      <workItem from="1611990314157" duration="170000" />
+      <workItem from="1611990314157" duration="798000" />
+      <workItem from="1612061091920" duration="2000" />
+      <workItem from="1612061718175" duration="228000" />
     </task>
     <task id="LOCAL-00001" summary="Update Resources">
       <created>1611982453646</created>
@@ -62,7 +63,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611982453647</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Update Resources">
+      <created>1611990492865</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611990492865</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
