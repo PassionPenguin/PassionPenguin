@@ -1,6 +1,8 @@
 ## PassionPenguin - Hoarfroster ✨
 ### 霜羽 🍻
 
+![VISITOR COUNT](https://visitor-badge.glitch.me/badge?page_id=PassionPenguin.PassionPenguin)
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=PassionPenguin&show_icons=true&layout=compact" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PassionPenguin&layout=compact&langs_count=10)
