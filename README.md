@@ -1,5 +1,6 @@
 ## PassionPenguin - Hoarfroster ✨
 ### 霜羽 🍻
+#### <small>高一萌新</small>求大学收留
 
 ![VISITOR COUNT](https://visitor-badge.glitch.me/badge?page_id=PassionPenguin.PassionPenguin)
 
