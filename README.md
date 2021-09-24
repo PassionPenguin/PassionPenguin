@@ -30,7 +30,7 @@ If you want to have a discussion with me on technology or just wanna to make a f
 * Email: [hoarfroster@hoarfroster.space](mailto:hoarfroster@hoarfroster.space)
 * Wikipedia: [User:HoarfrostFeather](https://zh.wikipedia.org/wiki/User:HoarfrostFeather)
 * Dribbble: [Hoarfroster](https://dribbble.com/Hoarfroster)
-* Behance: [Hoarfroster](https://dribbble.com/Hoarfroster)
+* Behance: [Hoarfroster](https://www.behance.net/passionpenguin)
 
 哈喽！这里是 **[霜羽 Hoarfroster](https://github.com/PassionPenguin/)** ！这里是一只高中狗，喜欢旅行、摄影、骑行、代码。
 
