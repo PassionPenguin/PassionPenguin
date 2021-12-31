@@ -22,12 +22,12 @@
 * JavaScript lover.
 * Dart-Flutter lover.
 
-If you want to have a discussion with me on technology or just wanna to make a friend, [send me an email](mailto:hoarfroster@hoarfroster.space) if you like, or, add my Wechat account `PassionPenguin`! :)。
+If you want to have a discussion with me on technology or just wanna to make a friend, [send me an email](mailto:penguin.zhang@qq.com) if you like, or, add my Wechat account `PassionPenguin`! :)。
 
 ### Contacts
 
 * GitHub: PassionPenguin
-* Email: [hoarfroster@hoarfroster.space](mailto:hoarfroster@hoarfroster.space)
+* Email: [penguin.zhang@qq.com](mailto:penguin.zhang@qq.com)
 * Wikipedia: [User:HoarfrostFeather](https://zh.wikipedia.org/wiki/User:HoarfrostFeather)
 * Dribbble: [Hoarfroster](https://dribbble.com/Hoarfroster)
 * Behance: [Hoarfroster](https://www.behance.net/passionpenguin)
