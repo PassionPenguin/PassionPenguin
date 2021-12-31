@@ -34,7 +34,7 @@ If you want to have a discussion with me on technology or just wanna to make a f
 
 哈喽！这里是 **[霜羽 Hoarfroster](https://github.com/PassionPenguin/)** ！这里是一只高中狗，喜欢旅行、摄影、骑行、代码。
 
-如果你想聊聊技术或者交个朋友，可以给我 [发邮件](mailto:hoarfroster@outlook.com) ~ 或者 加个微信 `PassionPenguin`！：）。
+如果你想聊聊技术或者交个朋友，可以给我 [发邮件](mailto:penguin.zhang@qq.com) ~ 或者 加个微信 `PassionPenguin`！：）。
 
 ```cpp
 std::cout << "面朝大海，仰望星空～";
