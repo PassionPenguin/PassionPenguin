@@ -9,7 +9,7 @@
 
 ### Tags
 
-* Grade 2 Student from a senior high.
+* Grade 3 Student from a senior high.
 * Guangzhou.
 * Photographer.
 * Cycler.
