@@ -1,5 +1,5 @@
 ## PassionPenguin - Hoarfroster ✨
-### 霜羽 🍻 A senior high student
+### 霜羽 🍻 Collegue Student Here
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=PassionPenguin&show_icons=true&layout=compact" />
 
@@ -9,18 +9,14 @@
 
 ### Tags
 
-* Grade 3 Student from a senior high.
-* Guangzhou.
+* Undergraduate student from HIT computer science.
 * Photographer.
 * Cycler.
 * Coder.
-* Active contributor to textbooks.
-* Math-fever sufferer.
-* Java-Kotlin lover.
-* JavaScript lover.
-* Dart-Flutter lover.
+* Active contributor to textbooks and middleschool teaching improvements.
+* Math-fever sufferer. (indeed aftermath)
 
-If you want to have a discussion with me on technology or just wanna to make a friend, [send me an email](mailto:penguin.zhang@qq.com) if you like! :)。
+If you want to have a discussion with me on technology or just wanna to make a friend, [send me an email](mailto:hoarfroster@outlook.com) if you like! :)。
 
 ### Contacts
 
@@ -32,7 +28,7 @@ If you want to have a discussion with me on technology or just wanna to make a f
 
 哈喽！这里是 **[霜羽 Hoarfroster](https://github.com/PassionPenguin/)** ！这里是一只高中狗，喜欢旅行、摄影、骑行、代码。
 
-如果你想聊聊技术或者交个朋友，可以给我 [发邮件](mailto:penguin.zhang@qq.com) ~！：）。
+如果你想聊聊技术或者交个朋友，可以给我 [发邮件](mailto:hoarfroster@outlook.com) ~！：）。
 
 ```cpp
 std::cout << "面朝大海，仰望星空～";
