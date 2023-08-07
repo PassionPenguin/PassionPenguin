@@ -27,7 +27,7 @@ If you want to have a discussion with me on technology or just wanna to make a f
 * Dribbble: [Hoarfroster](https://dribbble.com/Hoarfroster)
 * Behance: [Hoarfroster](https://www.behance.net/passionpenguin)
 
-哈喽！这里是 **[霜羽 Hoarfroster](https://github.com/PassionPenguin/)** ！这里是一只高中狗，喜欢旅行、摄影、骑行、代码。
+哈喽！这里是 **[霜羽 Hoarfroster](https://github.com/PassionPenguin/)** ！这里是一只大学畜！（怪异）
 
 如果你想聊聊技术或者交个朋友，可以给我 [发邮件](mailto:contact@hoarfroster.space) ~！：）。
 
