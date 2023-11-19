@@ -9,7 +9,7 @@
 
 ### Tags
 
-* Undergraduate student from HIT computer science.
+* Undergraduate student majoring in computer science.
 * Photographer.
 * Cycler.
 * Coder.
