@@ -7,11 +7,8 @@
 
 ### Tags
 
-* Undergraduate student majoring in computer science.
-* Active contributor to textbooks and middleschool teaching improvements.
-* Math-fever sufferer. (indeed aftermath)
-
-If you want to have a discussion with me on technology or just wanna to make a friend, [send me an email](mailto:hoarfroster@outlook.com) if you like! :)。
+* Undergraduate student majoring in computer science and english literature.
+* Active contributor to mdn, textbooks and middleschool teaching improvements.
 
 ### Contacts
 
